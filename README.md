@@ -13,7 +13,8 @@ Total fares revenue by City Type
     The bigger chunk of fares comes from our urban clientele, with 61.97%. 
     While the suburban customer are at a 31.45% due to fare distances
 
-Number of drivers vs revenue
+Number of drivers vs revenue    
+   
     Although the existance of drivers in the urban cities are bigger in numbers.
     The number of drivers at the suburban cities are able to generate a good amount of revenue.
     again due to the vast distances of fares taken
